@@ -1,19 +1,11 @@
 # Hack The Budget
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Mozilla’s contributors from all over the world do and outstanding work by spreading the word about Mozilla’s mission within their communities. However, most of the times these leaders have very limited resources to lead their events and campaigns.
 
-[ If you have one, add your logo or an image here ]
+In this Repo you can explore some Hands on activities on how to build a Toolkit for campaigns (Web Literacy, activism, advocacy)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
-
-## Getting Started
-
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
-
-## Contributing
-
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Participation Guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+Creating cartoons for social change
+Craft a Stamp for your Club
+3D glasses-VR
+Designing posters with stencil templates
+Create a game board
